@@ -1,3 +1,6 @@
+# Version del curso 
+Version actual: 1.2.2
+
 # Tipos de cabeceras 
 # Cabecera h1
 ## Cabecera h2
